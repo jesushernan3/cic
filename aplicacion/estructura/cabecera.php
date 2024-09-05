@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="<?php echo $raiz;?>recursos/principal.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
   <link href="/public/fonts/et-line-font/et-line-font.css" rel="stylesheet">
-  <title>Corpus Iuris Civile</title>
+  <title>Corpus Iuris Civile ver 0.1</title>
 </head>
 
 <body class="has-background-light">
