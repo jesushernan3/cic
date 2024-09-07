@@ -15,4 +15,5 @@
   <!-- envoltorio -->
   <div>
     <?php include('parciales/header.php'); ?>
-    <div class="container has-text-black altura-minima is-size-5">
+    <div class="container has-text-black is-size-5">
+      

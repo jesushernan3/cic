@@ -12,3 +12,19 @@ header {
   margin: 50px auto;
   text-align: justify;
 }
+.submenu {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+aside a.button, aside .menu-list a {
+	font-size: 0.85rem;
+  color: #999;
+}
+.texto-principal p.has-text-justified {
+  margin-top: 3rem;
+}
+.inciso {
+	padding-left: 1rem;
+	color: #555;
+  margin-top: 0.5rem;
+}

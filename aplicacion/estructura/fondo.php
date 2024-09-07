@@ -1,3 +1,4 @@
+			
 		</div>
 	<?php include 'parciales/footer.php'; ?>
 	</div>
