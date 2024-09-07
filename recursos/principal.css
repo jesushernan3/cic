@@ -17,8 +17,11 @@ header {
   margin-bottom: 35px;
 }
 aside a.button, aside .menu-list a {
-	font-size: 0.85rem;
+	font-size: 0.95rem;
+}
+aside a.button{
   color: #999;
+
 }
 .texto-principal p.has-text-justified {
   margin-top: 3rem;
@@ -27,4 +30,9 @@ aside a.button, aside .menu-list a {
 	padding-left: 1rem;
 	color: #555;
   margin-top: 0.5rem;
+}
+.menu {
+	padding-top: 2rem;
+	position: sticky;
+	top: 0;
 }

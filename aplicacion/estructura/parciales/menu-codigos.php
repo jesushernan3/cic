@@ -1,5 +1,5 @@
 <aside class="menu">
-  <ul class="menu-list block is-uppercase">
+  <ul class="menu-list block">
     <li><a class="has-background-light has-text-black" href="/aplicacion/contenido/codigos/componendo.php">De novo codice componendo</a></li>
     <li><a class="has-background-light has-text-black" href="/aplicacion/contenido/codigos/confirmando.php">De Iustiniano codice confirmando</a></li>
     <li><a class="has-background-light has-text-black" href="/aplicacion/contenido/codigos/emendatio.php">De emendatione codicis Iustiniani et secunda eius editione</a></li>
@@ -17,5 +17,8 @@
     <div class="cell"><a class="button is-light" href="/aplicacion/contenido/codigos/liber-10.php">liber 10</a></div>
     <div class="cell"><a class="button is-light" href="/aplicacion/contenido/codigos/liber-11.php">liber 11</a></div>
     <div class="cell"><a class="button is-light" href="/aplicacion/contenido/codigos/liber-12.php">liber 12</a></div>
+  </div>
+  <div class="block has-text-centered">
+    <a href="#titulo-pagina" class="volver-arriba">Volver arriba</a>
   </div>
 </aside class="menu">
