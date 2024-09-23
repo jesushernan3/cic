@@ -200,21 +200,33 @@
         </ul>
         <hr>
         <p id="1.1.0." class="has-text-justified">
-          1.1.0. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat.
+          1.1.0. <br>
+          De la suprema trinidad y de la fe católica, y que nadie se atreva a discutir públicamente sobre ello.
         </p>
         <p id="1.1.1." class="has-text-justified">
           1.1.1. <br>
-          <em>Imperatores Gratianus, Valentinianus, Theodosius</em> . Cunctos populos, quos clementiae nostrae regit temperamentum, in tali volumus religione versari, quam divinum Petrum apostulum tradidisse Romanis religio usque ad nunc ab ipso insinuata declarat quamque pontificem Damasum sequi claret et Petrum Alexandriae episcopum virum apostolicae sanctitatis, hoc est ut secundum apostolicam disciplinam evangelicamque doctrinam patris et filii et spiritus sancti unam deitatem sub pari maiestate et sub pia trinitate credamus.
+          <em>Los emperadores Graciano, Valentiniano, Teodosio.</em>  Deseamos que todos los pueblos, a quienes gobierna el carácter de nuestra clemencia, se dediquen a tal religión, ya que la religión hasta ahora insinuada por él declara que entregó al divino apóstol Pedro a los romanos, y que es claro seguir el pontífice Dámaso, y Pedro obispo de Alejandría, varón de santidad apostólica, siendo esto conforme a la disciplina apostólica y doctrina evangélica, creamos en el Padre y en el Hijo y en el Espíritu Santo como una sola deidad bajo igual majestad y bajo la santísima trinidad .
         </p>
         <p class="inciso">
-          1. Hanc legem sequentes christianorum catholicorum nomen iubemus amplecti, reliquos vero dementes vesanosque iudicantes haeretici dogmatis infamiam sustinere, divina primum vindicta, post etiam motus nostri, quem ex caelesti arbitrio sumpserimus, ultione plectendos. * GRAT. VALENTIN. ET THEODOS. AAA. AD POP. URB. CONSTANTINOP. *(A 380 D. III K. MART. THESSALONICA GRATIANO V ET THEODOSIO AA. CONSS.)
+          1. Siguiendo esta ley, ordenamos que se abrace el nombre de los cristianos católicos, pero que los demás, juzgando a los locos y dementes, soporten la infamia de los dogmas heréticos, primero por venganza divina, y luego por nuestra propia acción, que hemos tomado de la voluntad celestial, por venganza. * Gracias ENAMORADO. Y TEODUS aaa PARA HACER POP. ciudad CONSTANTINOP *(A 380 D. III K. MART. TESALÓNICA GRACIANO V Y TEODOSIO AA. CONSS.)
         </p>
         <p id="1.1.2." class="has-text-justified">
           1.1.2 <br>
-          Imperatores Gratianus, Valentinianus, Theodosius . Nullus haereticis mysteriorum locus, nulla ad exercendam animi obstinatioris dementiam pateat occasio. Sciant omnes, etiamsi quid speciali quolibet rescripto per fraudem elicito ab huiusmodi hominum genere impetratum sit, non valere. Arceantur cunctorum haereticorum ab illicitis congregationibus turbae: unius et summi dei nomen ubique celebretur: nicaenae fidei dudum a maioribus traditae et divinae religionis testimonio atque adsertione firmatae observantia semper mansura teneatur.
+          Los emperadores Graciano, Valentiniano, Teodosio. Que no haya lugar para misterios heréticos, ni oportunidad para el ejercicio de la locura de una mente obstinada. Hágales saber a todos que, incluso si algo obtenido especialmente mediante algún registro escrito mediante fraude se obtiene de tal clase de hombres, no tiene ningún valor. Que las concubinas heréticas sean desterradas de las reuniones ilícitas de multitudes; que el nombre del Dios único y supremo sea celebrado en todas partes; que el respeto a la fe de Nicea, transmitida hace mucho tiempo por los ancianos y confirmada por el testimonio y la afirmación de los la religión divina, sea siempre mantenida.
         </p>
-        <p class="inciso">1. Is autem nicaenae adsertor fidei et catholicae religionis verus cultor accipiendus est, qui omnipotentem deum et Christum filium dei uno nomine confitetur, deum de deo, lumen ex lumine, qui spiritum sanctum, quem ex summo rerum parente speramus et accipimus, negando non violat, apud quem intemeratae fidei sensu viget incorruptae trinitatis indivisa substantia, quae Graeco verbo ousia recte credentibus dicitur. Haec profecto nobis magis probata, haec veneranda sunt.</p>
-        <p class="inciso">2. Qui vero isdem non inserviunt, desinant adfectatis dolis alienum verae religionis nomen adsumere et suis apertis criminibus denotentur: ab omnium submoti ecclesiarum limine penitus arceantur, cum omnes haereticos illicitas agere intra oppida congregationes vetemus. Ac si quid eruptio factiosa temptaverit, ab ipsis etiam urbium moenibus exterminato furore propelli iubemus, ut cunctis orthodoxis episcopis, qui nicaenam fidem tenent, catholicae ecclesiae toto orbe reddantur.* GRAT. VALENTIN. ET THEODOS. AAA. EUTROPIO PP. *(A 381 D. IIII ID. IAN. CONSTANTINOPOLI EUCHERIO ET SYAGRIO CONSS)</p>
+        <p class="inciso">1. Ahora bien, debe ser aceptado como verdadero adorador aquel adherente de la fe nicena y de la religión católica, que confiesa a Dios Todopoderoso y a Cristo Hijo de Dios en un solo nombre, Dios de Dios, luz de luz, que no viola con negando al Espíritu Santo, a quien esperamos y recibimos del Padre supremo de todas las cosas, en quien prevalece la sustancia indivisible de la trinidad incorruptible en el sentido de la fe inmaculada, que se llama con la palabra griega ousia a los que creen rectamente. Ciertamente estas cosas nos agradan más y son dignas de veneración.</p>
+        <p class="inciso">2. Pero aquellos que no sirvan a lo mismo, que dejen de asumir el nombre falso de la religión verdadera y queden expuestos a sus crímenes abiertos. Y si se intentara alguna erupción de facciones, ordenamos que sean expulsados ​​de los muros de las ciudades con furia exterminada, para que todos los obispos ortodoxos que sostienen la fe nicena puedan ser restituidos a la Iglesia católica en todo el mundo.* AGRADECIDOS . ENAMORADO. Y TEODUS aaa Eutropio PP. *(A 381 D. IIII ID. JAN. EUCHERIUS ET SYAGRIOS DE CONSTANTINOPLA)</p>
+        <p id="1.1.3" class="has-text-justified">1.1.3 <br>
+          [Aqui va un texto griego. Lo sentimos, aún no está en la Libreria.]</p>
+        <p id="1.1.4" class="has-text-justified">1.1.4 <br>
+          Emperador Marciano Ningún clérigo o soldado, ni ninguna otra persona de cualquier condición, intentará en el futuro tratar públicamente la fe cristiana ante multitudes y oyentes reunidos, dando lugar así a tumulto y traición.
+        </p>
+        <p class="inciso">1. Porque comete un perjuicio al juicio del reverendísimo Sínodo, si alguno se esfuerza en revocar y discutir públicamente lo que una vez fue juzgado y correctamente dispuesto, cuando las cosas que ahora están establecidas acerca de la fe cristiana por los sacerdotes que se reunieron en Calcedonia, han sido establecidos por nuestros preceptos, según las exposiciones apostólicas e instituciones de los santos padres se sabe que fueron determinados trescientos dieciocho y ciento cincuenta.</p>
+
+        <p class="inciso">2. Porque los que infrinjan esta ley no carecerán de castigo, porque no sólo van contra la fe verdaderamente expuesta, sino que también profanan con esta clase de conflictos los venerables misterios de judíos y gentiles.</p>
+
+        <p class="inciso">3. Por tanto, si hay un clérigo que se atreve a tratar públicamente de religión, se le quitará la asociación de clérigos, pero si está dotado de milicia, se le despojará de su cinturón y se le someterá a las penas de sometimiento. , si no realmente esclavos, con las más severas advertencias. *MARCIANO. A. PALLADIO PP. *A 452 D. VII ID. FEBRERO ESPORACIO DE CONSTANTINOPLA.</p>
+
       </div>
     </section>
 

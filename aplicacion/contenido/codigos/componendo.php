@@ -11,7 +11,7 @@
       <div class="columns">
         <div class="column">
           
-            <h2 class="title has-text-black">CODEX IUSTINIANO</h2>
+            <h2 id="titulo-pagina" class="title has-text-black">CODEX IUSTINIANO</h2>
             <h3 class="subtitle">( February 13, AD 528 )</h3>
             
         </div>
