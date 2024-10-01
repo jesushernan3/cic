@@ -226,7 +226,7 @@
         <p class="inciso">2. Porque los que infrinjan esta ley no carecerán de castigo, porque no sólo van contra la fe verdaderamente expuesta, sino que también profanan con esta clase de conflictos los venerables misterios de judíos y gentiles.</p>
 
         <p class="inciso">3. Por tanto, si hay un clérigo que se atreve a tratar públicamente de religión, se le quitará la asociación de clérigos, pero si está dotado de milicia, se le despojará de su cinturón y se le someterá a las penas de sometimiento. , si no realmente esclavos, con las más severas advertencias. *MARCIANO. A. PALLADIO PP. *A 452 D. VII ID. FEBRERO ESPORACIO DE CONSTANTINOPLA.</p>
-        <p>haber sianda para actualizar</p>
+        
 
       </div>
     </section>
